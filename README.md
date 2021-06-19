@@ -1,5 +1,4 @@
-# gitCommandTutorial
-Commonly used git commands
+# Commonly used git commands
 
 
 ## hellow there
