@@ -1,10 +1,7 @@
 # Commonly used git commands
 
 
-## hellow there
+## Where we are?
 
-
-<code>
-  print("hellop")
- <code>
+![alt text](https://github.com/CoderTag/git_tutorial/blob/main/img/Pic-1%20Where%20are%20we.png?raw=true)
 
